@@ -1,4 +1,4 @@
-<h2 align="center">Hello, Welcome to Meteo FiveM GitHub</h2>
+<h2 align="center">Hello, Welcome to Meteo Fivem GitHub</h2>
 
 ###
 
